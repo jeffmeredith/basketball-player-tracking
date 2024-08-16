@@ -1,0 +1,6 @@
+data/
+datasets/
+models/
+runs/
+detect/train/weights/
+FlaskAPI/__pycache__/

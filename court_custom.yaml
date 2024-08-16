@@ -1,0 +1,4 @@
+train: court-lines-data/train/images
+val: court-lines-data/val/images
+nc: 1
+names: ['court']
