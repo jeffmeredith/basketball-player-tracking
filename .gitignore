@@ -4,3 +4,4 @@ models/
 runs/
 detect/train/weights/
 FlaskAPI/__pycache__/
+FlaskAPI/venv/
