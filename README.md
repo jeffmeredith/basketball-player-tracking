@@ -1,4 +1,4 @@
-# YOLO Basketball Detection Model (Custom-trained)
+# Basketball Player Coordinate Estimation Model
 
 ## [Project Website](https://jeffmeredith.github.io/bball-court-viz/)
 
